@@ -1,0 +1,7 @@
+C:\Users\Lolme\source\repos\HOLA HOLA\obj\Debug\HOLA HOLA.csproj.AssemblyReference.cache
+C:\Users\Lolme\source\repos\HOLA HOLA\obj\Debug\HOLA HOLA.csproj.CoreCompileInputs.cache
+C:\Users\Lolme\source\repos\HOLA HOLA\bin\Debug\HOLA HOLA.exe.config
+C:\Users\Lolme\source\repos\HOLA HOLA\bin\Debug\HOLA HOLA.exe
+C:\Users\Lolme\source\repos\HOLA HOLA\bin\Debug\HOLA HOLA.pdb
+C:\Users\Lolme\source\repos\HOLA HOLA\obj\Debug\HOLA HOLA.exe
+C:\Users\Lolme\source\repos\HOLA HOLA\obj\Debug\HOLA HOLA.pdb
