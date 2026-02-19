@@ -11,7 +11,7 @@ namespace HOLA_HOLA
         static void Main(string[] args)
         {
             int numero = 9;
-            String texto = "Daniel";
+            String texto = "Pedro";
             bool verdaderofalso = false;
             double decimales = 10.0;
 
